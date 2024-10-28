@@ -1,14 +1,17 @@
-### study-of-basic-gates
+![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 24-10-2024 14_40_02](https://github.com/user-attachments/assets/0ea6957d-647a-4271-abf0-3ebd91abc912)### study-of-basic-gates
+### Name: GEETHU R
+### Register number:24006425
+### Experiment_1: Logic Gate
 
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+**EQUIPMENTS REQUIRED:**
 
 Software – Quartus prime 
 
-**Theory**
+**THEORY**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -49,7 +52,7 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+**PROCEDURE** 
 
 1.	Type the program in Quartus software.
 
@@ -65,15 +68,21 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+![Quartus II 64-Bit 24-10-2024 14_26_11](https://github.com/user-attachments/assets/f218e630-cd99-4ae7-a462-f77018edc1e0)
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![IMG_20241028_113024](https://github.com/user-attachments/assets/f9edf626-952a-4bc1-a23b-b27a2d4968a5)
 
-**RTL realization Output:** 
 
-**RTL**
+**RTL OUTPUT:** 
+![RTL Viewer - C__altera_13 0sp1_logicgates - logicgates 24-10-2024 14_27_17](https://github.com/user-attachments/assets/b5c9c8c6-91f0-4b64-8e75-1cf243c4c251)
 
-**Result:**
+**OUTPUT WAVEFORM**
+![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 24-10-2024 14_40_02](https://github.com/user-attachments/assets/dcceea71-478a-420f-b539-6839aa54c906)
 
+
+**RESULT:**
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully. 
 
