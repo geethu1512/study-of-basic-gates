@@ -80,7 +80,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![RTL Viewer - C__altera_13 0sp1_logicgates - logicgates 24-10-2024 14_27_17](https://github.com/user-attachments/assets/b5c9c8c6-91f0-4b64-8e75-1cf243c4c251)
 
 **OUTPUT WAVEFORM**
-![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 24-10-2024 14_40_02](https://github.com/user-attachments/assets/dcceea71-478a-420f-b539-6839aa54c906)
+
+![Waveform 1](https://github.com/user-attachments/assets/a29eb2e8-d318-429c-a7f6-d75bce3e9c5b)
 
 
 **RESULT:**
