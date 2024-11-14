@@ -1,4 +1,4 @@
-![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 24-10-2024 14_40_02](https://github.com/user-attachments/assets/0ea6957d-647a-4271-abf0-3ebd91abc912)### study-of-basic-gates
+### study-of-basic-gates
 ### Name: GEETHU R
 ### Register number:24006425
 ### Experiment_1: Logic Gate
