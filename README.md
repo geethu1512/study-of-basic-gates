@@ -1,7 +1,7 @@
-### study-of-basic-gates
+
 ### Name: GEETHU R
 ### Register number:24006425
-### Experiment_1: Logic Gate
+### Experiment No:1 Study Of Logic Gate
 
 **AIM:** 
 
