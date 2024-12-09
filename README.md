@@ -1,7 +1,7 @@
 
 ### Name: GEETHU R
 ### Register number:24006425
-### Experiment No:1 Study Of Logic Gate
+### EXPERIMENT No:1 Study Of Logic Gate
 
 **AIM:** 
 
