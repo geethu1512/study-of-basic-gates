@@ -1,9 +1,9 @@
 
 ### Name: GEETHU R
 ### Register number:24006425
-### EXPERIMENT No:1 Study Of Logic Gate
+# EXPERIMENT NO:1 STUDY OF LOGIC GATES
 
-**AIM:** 
+**AIM:**
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
